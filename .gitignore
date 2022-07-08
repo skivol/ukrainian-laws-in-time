@@ -2,3 +2,8 @@
 *~
 *.swp
 
+# Html diffs single and packed
+*.html
+*.zip
+*.tex
+*.pdf
